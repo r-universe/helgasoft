@@ -1,5 +1,9 @@
 [
   {
+    "package": "amapro",
+    "oncran": true
+  },
+  {
     "package": "echarty",
     "oncran": true
   }

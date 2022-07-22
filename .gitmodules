@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "amapro"]
+	path = amapro
+	url = https://github.com/helgasoft/amapro
+	shallow = true
+	registered = true
 [submodule "echarty"]
 	path = echarty
 	url = https://github.com/helgasoft/echarty
