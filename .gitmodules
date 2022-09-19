@@ -8,8 +8,3 @@
 	url = https://github.com/helgasoft/amapro
 	shallow = true
 	registered = true
-[submodule "echarty"]
-	path = echarty
-	url = https://github.com/helgasoft/echarty
-	shallow = true
-	registered = true
